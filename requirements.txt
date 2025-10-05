@@ -1,8 +1,2 @@
-pandas
-numpy
-matplotlib
-seaborn
-PyPDF2
-wordcloud
 streamlit
-flask
+PyPDF2
